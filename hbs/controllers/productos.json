@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "rolex",
+        "price": 20000,
+        "thumbnail": ""
+    },
+    {
+        "id": 2,
+        "title": "xiaomi band",
+        "price": 1500,
+        "thumbnail": ""
+    },
+    {
+        "id": 3,
+        "title": "monitor asus",
+        "price": 1500,
+        "thumbnail": ""
+    },
+    {
+        "id": 4,
+        "title": "televisor samsung",
+        "price": 1500,
+        "thumbnail": ""
+    },
+    {
+        "id": 5,
+        "title": "ps5",
+        "price": "1699",
+        "thumbnail": ""
+    }
+]
