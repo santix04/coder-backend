@@ -2,31 +2,31 @@
     {
         "id": 1,
         "title": "rolex",
-        "price": 20000,
-        "thumbnail": ""
+        "price": 400000,
+        "thumbnail": "https://e7.pngegg.com/pngimages/647/572/png-clipart-rolex-datejust-rolex-submariner-watch-jewellery-watches-electronics-watch-accessory.png"
     },
     {
         "id": 2,
         "title": "xiaomi band",
-        "price": 1500,
-        "thumbnail": ""
+        "price": 6000,
+        "thumbnail": "https://intecnova.com.ar/img/Public/1132-producto-imagen1-759.jpg"
     },
     {
         "id": 3,
         "title": "monitor asus",
-        "price": 1500,
-        "thumbnail": ""
+        "price": 87000,
+        "thumbnail": "https://w7.pngwing.com/pngs/267/684/png-transparent-asus-rog-strix-computer-monitors-republic-of-gamers-graphics-cards-video-adapters-rog-television-computer-monitor-accessory-asus.png"
     },
     {
         "id": 4,
         "title": "televisor samsung",
-        "price": 1500,
-        "thumbnail": ""
+        "price": 90000,
+        "thumbnail": "https://e7.pngegg.com/pngimages/144/418/png-clipart-smart-tv-samsung-ultra-high-definition-television-led-backlit-lcd-samsung-television-media.png"
     },
     {
         "id": 5,
         "title": "ps5",
-        "price": "1699",
-        "thumbnail": ""
+        "price": "130000",
+        "thumbnail": "https://www.citypng.com/public/uploads/preview/-11591925787cggjhepdvq.png"
     }
 ]
